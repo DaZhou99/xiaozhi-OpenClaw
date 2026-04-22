@@ -1,0 +1,19 @@
+{
+  "_comment": "Copy this file to config.json and fill in your values",
+  "MCP_ENDPOINT": "wss://api.xiaozhi.me/mcp/?token=YOUR_XIAOZHI_TOKEN_HERE",
+  "OPENCLAW_URL": "http://127.0.0.1:18789",
+  "HOOK_TOKEN": "YOUR_OPENCLAW_HOOK_TOKEN_HERE",
+  "HOOK_NAME": "XiaoZhi",
+  "AGENT_ID": "",
+  "SESSION_KEY": "hook:xiaozhi-default",
+  "WAKE_MODE": "now",
+  "DELIVER": false,
+  "CHANNEL": "feishu",
+  "TO": "YOUR_FEISHU_OPEN_ID_HERE",
+  "MODEL": "",
+  "THINKING": "",
+  "TIMEOUT_SECONDS": 120,
+  "USE_SOCKS_PROXY": false,
+  "LOG_ENABLED": false,
+  "LOG_PATH": "./logs/bridge_events.jsonl"
+}
