@@ -1,4 +1,4 @@
-# xiaozhi-openclaw-bridge
+# xiaozhi-OpenClaw
 
 🤖 小智语音助手 ↔ OpenClaw AI Agent 桥接工具，通过 MCP 协议连接。
 
